@@ -9,8 +9,8 @@ body{
 	margin: 20px auto;	
 }
 #calculator{
-	width: 320px;
-	height: 520px;
+	width: 310px;
+	height: 510px;
 	background-color: #eaedef;
 	margin: 0 auto;
 	top: 20px;
@@ -31,8 +31,8 @@ body{
 }
 #output{
 	text-align: right;
-	height: 60px;
-	margin: 10px 20px;
+	height: 50px;
+	margin: 20px 20px;
 	font-size: 30px;
 }
 #keyboard{
